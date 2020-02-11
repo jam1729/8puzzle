@@ -8,12 +8,14 @@ There are 9! total possible states , in which only half (i.e) 9!/2
 states are solvable states.
 
 Some states like 
+
 1 2 3
 
 4 6 5
 
 7 8 0
 
+------
 
 1 2 3
 
@@ -29,12 +31,14 @@ And then I have printed the states (moves) , that proceeds towards
 the solution.
 
 The states given below takes the longest possible steps , 31 steps.
+
 8 6 7
 
 2 5 4
 
 3 0 1
 
+------
 
 6 4 7
 
